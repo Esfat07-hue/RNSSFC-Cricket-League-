@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>রাজনগর নব শুভ সংঘ ক্রিকেট লীগ</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="RNSSF Logo" class="logo" />
+    <h1>🏏 রাজনগর নব শুভ সংঘ ক্রিকেট লীগ 🏆</h1>
+    <p>দলের র‍্যাঙ্কিং ও নেট রান রেট আপডেট</p>
+  </header>
+
+  <main>
+    <section class="table-section">
+      <h2>দলীয় পয়েন্ট তালিকা</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>স্থান</th>
+            <th>দলের নাম</th>
+            <th>ম্যাচ</th>
+            <th>জয়</th>
+            <th>পরাজয়</th>
+            <th>নেট রান রেট (NRR)</th>
+            <th>পয়েন্ট</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>১</td>
+            <td>Arabian Kings</td>
+            <td>০</td>
+            <td>০</td>
+            <td>০</td>
+            <td>০.০০</td>
+            <td>০</td>
+          </tr>
+          <tr>
+            <td>২</td>
+            <td>Knight Riders</td>
+            <td>০</td>
+            <td>০</td>
+            <td>০</td>
+            <td>০.০০</td>
+            <td>০</td>
+          </tr>
+          <tr>
+            <td>৩</td>
+            <td>Flying Falcon</td>
+            <td>০</td>
+            <td>০</td>
+            <td>০</td>
+            <td>০.০০</td>
+            <td>০</td>
+          </tr>
+          <tr>
+            <td>৪</td>
+            <td>Power Heaters</td>
+            <td>০</td>
+            <td>০</td>
+            <td>০</td>
+            <td>০.০০</td>
+            <td>০</td>
+          </tr>
+          <tr>
+            <td>৫</td>
+            <td>All-round Royals</td>
+            <td>০</td>
+            <td>০</td>
+            <td>০</td>
+            <td>০.০০</td>
+            <td>০</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer>
+    <p>© ২০২৫ রাজনগর নব শুভ সংঘ ক্লাব  ESFAT OFFICIAL</p>
+  </footer>
+</body>
+</html>
